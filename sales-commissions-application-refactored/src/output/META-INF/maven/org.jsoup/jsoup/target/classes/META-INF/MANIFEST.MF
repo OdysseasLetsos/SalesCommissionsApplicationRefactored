@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1702743355314
+Build-Jdk-Spec: 16
+Bundle-Description: jsoup is a Java library that simplifies working with
+  real-world HTML and XML. It offers an easy-to-use API for URL fetching
+ , data parsing, extraction, and manipulation using DOM API methods, CSS
+ , and xpath selectors. jsoup implements the WHATWG HTML5 specification,
+  and parses HTML to the same DOM as modern browsers.
+Bundle-DocURL: https://jsoup.org/
+Bundle-License: https://jsoup.org/license
+Bundle-ManifestVersion: 2
+Bundle-Name: jsoup Java HTML Parser
+Bundle-SymbolicName: org.jsoup
+Bundle-Vendor: Jonathan Hedley
+Bundle-Version: 1.17.1
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Implementation-Title: jsoup Java HTML Parser
+Implementation-Vendor: Jonathan Hedley
+Implementation-Version: 1.17.1
+Import-Package: org.jspecify.annotations;resolution:=optional
+Multi-Release: true
+Originally-Created-By: Apache Maven Bundle Plugin 5.1.9
+Tool: Bnd-6.3.1.202206071316
