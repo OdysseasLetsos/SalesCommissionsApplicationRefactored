@@ -1,2 +1,2 @@
 # SalesCommissionsApplicationRefactored
-Βελτιστοποίηση Συστήματος Πωλήσεων και Προμηθευτών (Refactor)
+Sales and Supplier System Optimization (Refactor)
